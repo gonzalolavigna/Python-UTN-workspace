@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/home/glavigna/Documents/LiClipse Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/EjercicioClase1/com.python.pydev.analysis/v2_indexcache
+mamiferos|1521594897000000000|/home/glavigna/Documents/LiClipse Workspace/EjercicioClase1/mamiferos.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=mamiferos
+1=/home/glavigna/Documents/LiClipse Workspace/EjercicioClase1/mamiferos.py
+3=mamiferos.__init__
+-- END DICTIONARY
+-- START TREE 1
+1
+mam|2|mamifero_generico!1^17#5*19@mamiferos!1^1#7*17@
+-- END TREE
+-- START TREE 2
+7
+__i|1|__init__!2&1^2#9*18@
+age|1|age!3&1^6#9*19@
+esp|1|especie!3&1^7#9*19@
+fur|1|fur_color!3&1^3#9*19@
+has|1|has_tail!3&1^5#9*19@
+num|1|number_eyes!3&1^4#9*19@
+pri|1|print_atributes!2&1^8#9*18@
+-- END TREE

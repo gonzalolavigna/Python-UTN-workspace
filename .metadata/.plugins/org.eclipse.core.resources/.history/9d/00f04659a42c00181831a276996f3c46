@@ -1,0 +1,13 @@
+class mamiferos ():
+    def __init__ (self,fur_color,number_eyes,has_tail,age,name):
+        self.fur_color = fur_color
+        self.number_eyes = number_eyes
+        self.has_tail = has_tail
+        self.age = age
+        self.name = name
+    def print_atributes(self):
+
+        print("Color de Piel self.number_eyes")
+        print("Color de Piel self.has_tail")
+        print("Color de Piel self.age")
+        print("Color de Piel self.name")
